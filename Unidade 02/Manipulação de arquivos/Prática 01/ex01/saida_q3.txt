@@ -1,0 +1,5 @@
+Amanda	7.50	Aprovado
+Alberto	5.17	Reprovado
+Jane	6.43	Reprovado
+Igor	8.83	Aprovado
+Samara	9.00	Aprovado
